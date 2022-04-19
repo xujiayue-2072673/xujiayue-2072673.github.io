@@ -1,0 +1,56 @@
+body{
+    background-image: url('colorbackground.png');
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 5px rgb(89, 64, 137);
+    background-color: #dcc8ee;
+    text-align: center;
+}
+
+#Header h1{
+    color: black;
+    font-weight: bold;
+}
+
+h3{
+    font-family: verdana;
+    font-size: 130%;
+    margin-left: auto;
+}
+
+#Account{
+    border: 2px solid #4b7fdf;
+    padding: 30px;
+    font-family: courier;
+    font-size: 130%;
+    margin-left: 40px;
+}
+
+#Personal_Information{
+    border: 2px solid #4b7fdf;
+    padding: 30px;
+    font-family: courier;
+    font-size: 130%;
+    margin-left: 40px;
+}
+
+#Personal_Statement{
+    border: 2px solid #4b7fdf;
+    padding: 30px;
+    font-family: courier;
+    font-size: 130%;
+    margin-left: 40px;
+}
+
+#Availability{
+    border: 2px solid #4b7fdf;
+    padding: 30px;
+    font-family: courier;
+    font-size: 130%;
+    margin-left: 40px;
+}
